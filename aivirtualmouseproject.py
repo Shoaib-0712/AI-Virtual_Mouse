@@ -90,7 +90,6 @@ while True:
         #16. Open A Drive if distance short
             if length < 40:
                 cv2.circle(img, (lineInfo[4], lineInfo[5]), 15, (0, 255, 0), cv2.FILLED)
-                # os.startfile("A:\\")
 
     
    
