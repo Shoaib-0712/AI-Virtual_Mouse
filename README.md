@@ -46,16 +46,13 @@ To use the virtual mouse, make sure your computer has a camera and follow the st
 
 3. Make a fist to activate the virtual mouse.
 
-4. Move your fingure to move the mouse pointer.
+4. Move your finger to move the mouse pointer.
 
 5. Release your fist to click.
 
-6. Touch thumb and for fingure to right-click.
+6. Touch thumb and fore finger to right-click.
 
-7. Touch middle fingure and for fingure to left-click.
+7. Touch middle fingure and fore finger to left-click.
 
-To exit the application, stop the code running using code editor or directle close the GUI window.
+To exit the application, stop the code running using code editor or directly close the GUI window.
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a pull request or open an issue if you encounter any bugs or have any suggestions for improvement.
